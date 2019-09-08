@@ -4,7 +4,7 @@
 
 #### By _**Aurora Shido-Wagenet, Nathan Nielson, Nayomi Morita, Slater Smith**_
 
-![](/img/gameSS1.jpg) ![](/img/gameSS1.jpg)
+![](/img/gameSS1.jpg) ![](/img/gameSS2.jpg)
 
 ## Description
 

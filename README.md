@@ -4,6 +4,8 @@
 
 #### By _**Aurora Shido-Wagenet, Nathan Nielson, Nayomi Morita, Slater Smith**_
 
+![](/img/gameSS1.jpg) ![](/img/gameSS1.jpg)
+
 ## Description
 
 _This application provides the user with the oppurtunity to go on a thrilling adventure!_
